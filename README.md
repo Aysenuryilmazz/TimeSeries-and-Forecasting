@@ -1,5 +1,8 @@
 ## TimeSeries & Forecasting on Australia Tourism Dataset
 
+For this project, I've ve been working with several different algorithms and each one is clearly explained:
+Hope you can enjoy while learning :) 
+
 - Dataset Exploration
 - Data Preprocessing
 - Time-Series Analysis
